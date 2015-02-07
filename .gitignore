@@ -52,3 +52,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+aikido/cache/
+aikido/output/
+aikido/.doit.db
